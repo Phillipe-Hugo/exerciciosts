@@ -9,3 +9,7 @@ function multiplicar(a: number, b: number): number {
   function saudacao(nome: string): string {
     return "Olá " + nome;
   }
+
+  console.log(saudacao);
+  // Imprimindo mensagem com o parâmetro passado na função
+ 
